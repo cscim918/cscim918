@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a> 
 
 <!--
 **cscim918/cscim918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
