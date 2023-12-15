@@ -1,4 +1,4 @@
-### 🌱🧑‍💻 BackEnd Developer
+### 🌱🧑‍💻 Web Developer
 
 
 ### 💪  Tech Stack
